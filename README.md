@@ -3,14 +3,6 @@
   <br/>
   <br/>
 </div>
-
-```bash
-$> whoami
-  Kenzo Porceillon
-$> echo $LANGUAGES
-  C
-```
-
 <div align=center>
   <h1>My Skills</h1>
 </div>

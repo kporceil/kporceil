@@ -1,4 +1,6 @@
-[![kporceil's 42 stats](https://badge.mediaplus.ma/colorfulwaves/kporceil)](https://github.com/oakoudad/badge42)
+<div align=center>
+  [![kporceil's 42 stats](https://badge.mediaplus.ma/colorfulwaves/kporceil)](https://github.com/oakoudad/badge42)
+<\div>
 
 ```bash
 $> whoami
@@ -8,9 +10,7 @@ $> echo $LANGUAGES
 ```
 
 ## My Skills  
-<p align="center">
 ### Programming Languages
-<\p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,bash,git,neovim" />

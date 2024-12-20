@@ -1,15 +1,14 @@
 <div align=center>
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/kporceil" alt="kporceil's 42 stats" /></a>
+  <br/>
+  <br/>
 </div>
-
 ```bash
 $> whoami
   Kenzo Porceillon
 $> echo $LANGUAGES
   C
 ```
-<br/>
-<br/>
 <div align=center>
   <h1>My Skills</h1>
 </div>

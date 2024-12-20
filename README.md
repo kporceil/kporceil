@@ -1,5 +1,5 @@
 <div align=center>
-  [![kporceil's 42 stats](https://badge.mediaplus.ma/colorfulwaves/kporceil)](https://github.com/oakoudad/badge42)
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/yusengok?1337Badge=off&UM6P=off" alt="yusengok's 42 stats" /></a>
 <\div>
 
 ```bash

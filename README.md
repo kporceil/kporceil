@@ -8,8 +8,9 @@ $> echo $LANGUAGES
 ```
 
 ## My Skills  
-
-### Programming Languages  
+<p align="center">
+### Programming Languages
+<\p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,bash,git,neovim" />

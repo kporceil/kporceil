@@ -8,7 +8,8 @@ $> whoami
 $> echo $LANGUAGES
   C
 ```
-<br/>
+
+
 <div align=center>
   <h1>My Skills</h1>
 </div>

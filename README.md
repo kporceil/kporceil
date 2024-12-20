@@ -6,3 +6,12 @@ $> whoami
 $> echo $LANGUAGES
   C
 ```
+
+## My Skills  
+
+### Programming Languages  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,bash,git,neovim" />
+  </a>
+</p>
